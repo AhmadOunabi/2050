@@ -1,0 +1,119 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+font-size: 20px;
+font-weight: 800;
+text-transform: capitalize;
+}
+.facebook{
+    color:#3b5998;
+}
+.twitter{
+    color:#1da1f2 ;
+}
+.google{
+    color: red;
+}
+.linkedin{
+    color: #0077b5;
+}
+
+.head{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hone {
+    font-family: 'Poppins', sans-serif;
+    color: #6C63FF;
+    font-weight: 700;
+    font-size:25px;
+}
+.htwo{
+    font-weight: 800;
+}
+.hthree{font-weight: 800;}
+.hfour{font-weight: 800;}
+.lorem{
+    font-size: large;
+}
+
+
+.bannerText{
+    margin-top:100px;
+}
+
+.buttonName{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+li.button{
+    border-radius: 25px;
+    background-color: #6C63FF;
+    width: 150px;
+}
+img.sss{
+    max-width: 620px;
+    min-width: 620px;
+    height: 500px;
+
+}
+
+
+
+h4.about{
+    font-weight: 600;
+    color: #6C63FF;
+}
+
+h1.we{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.more{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    border-bottom: 2px solid;
+    border-color: #6C63FF;
+}
+
+i.wifi::after{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+svg{
+    margin: 20px;
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background:#6C63FF;
+}
+
+.card-body{
+    font-weight: 500;
+}
+.card-body h5{
+    font-weight: 700;
+}
+
+div.card{
+    border: 0px solid;
+}
+
+.service{
+    color: #6C63FF;
+    font-weight: 600;
+}
+
+.industry{
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
