@@ -59,6 +59,7 @@ img.sss{
     max-width: 620px;
     min-width: 620px;
     height: 500px;
+    margin-left: -150px;
 
 }
 
@@ -117,3 +118,43 @@ div.card{
     font-weight: 600;
     padding-bottom: 20px;
 }
+
+.background{
+    background:#F3F9FB;
+    border-radius: 50%;
+    width: 550px;
+    height: 550px;
+}
+
+div.background img{
+    width: 450px;
+    height: 570px;
+    margin-top: -65px;
+    margin-left: 20px;
+}
+
+svg.bi{
+    transition: 1s;
+    color: #F3F9FB;
+}
+div.card:hover svg.bi{
+    transform: translateX(30px);
+}
+
+p{
+    color: #666666;
+}
+
+section{
+    background-color: #F3F9FB;
+}
+
+.fa-check{
+    font-size:25px;
+    color:#6C63FF;
+}
+
+p.text{
+
+}
+
